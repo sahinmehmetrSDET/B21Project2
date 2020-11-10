@@ -4,6 +4,7 @@ public class Main {
 
 
         System.out.println("Hello New Project2");
+        System.out.println("Hello new task");
 
     }
 }
